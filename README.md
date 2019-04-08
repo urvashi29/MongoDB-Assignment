@@ -4,8 +4,12 @@ Create MongoDB server running (the project uses the standard "test" mongoDB data
 Functionality:
 
 Create an item
+
 Update an item
+
 Delete an item
+
 Get and list all items
+
 Search the list of items
 
